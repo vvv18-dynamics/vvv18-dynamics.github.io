@@ -1,0 +1,26 @@
+{
+    "tutorials": [ 
+        {
+            "name": "tutorial_impedance-control",
+            "url": "https://github.com/vvv-school/tutorial_impedance-control",
+            "score": 1
+        },
+        {
+            "name": "tutorial_impedance-control-simulink",
+            "url": "https://github.com/vvv-school/tutorial_impedance-control-simulink",
+            "score": 1
+        }
+    ],
+    "assignments": [ 
+        {
+            "name": "assignment_computed-torque",
+            "url": "https://github.com/vvv-school/assignment_computed-torque",
+            "score": 5
+        },
+        {
+            "name": "assignment_computed-torque-simulink",
+            "url": "https://github.com/vvv-school/assignment_computed-torque-simulink",
+            "score": 5
+        }
+    ]
+}
