@@ -5,6 +5,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-atabakd](https://github.com/vvv18-dynamics/tutorial_impedance-control-atabakd) | :white_check_mark: | **1** |
+| [assignment_computed-torque-atabakd](https://github.com/vvv18-dynamics/assignment_computed-torque-atabakd) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
