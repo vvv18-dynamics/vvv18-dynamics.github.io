@@ -368,7 +368,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_computed-torque-njm12",
+        "status": ":x:",
+        "last_commit_date": "2018-02-10 11:51:41 UTC",
+        "score": 5
+      }
+    ],
     "score": 1
   },
   {
