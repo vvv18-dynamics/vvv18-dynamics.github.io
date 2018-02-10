@@ -220,9 +220,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_computed-torque-raedbsili1991](https://github.com/vvv18-dynamics/assignment_computed-torque-raedbsili1991) | :x: | **0** |
+| [assignment_computed-torque-raedbsili1991](https://github.com/vvv18-dynamics/assignment_computed-torque-raedbsili1991) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
