@@ -151,6 +151,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-jasonsiver](https://github.com/vvv18-dynamics/tutorial_impedance-control-jasonsiver) | :white_check_mark: | **1** |
+| [assignment_computed-torque-jasonsiver](https://github.com/vvv18-dynamics/assignment_computed-torque-jasonsiver) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
