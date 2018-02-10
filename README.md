@@ -17,9 +17,10 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-PCH313](https://github.com/vvv18-dynamics/tutorial_impedance-control-PCH313) | :white_check_mark: | **1** |
+| [tutorial_impedance-control-simulink-PCH313](https://github.com/vvv18-dynamics/tutorial_impedance-control-simulink-PCH313) | :white_check_mark: | **1** |
 | [assignment_computed-torque-PCH313](https://github.com/vvv18-dynamics/assignment_computed-torque-PCH313) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
