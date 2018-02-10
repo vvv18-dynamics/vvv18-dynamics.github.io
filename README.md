@@ -41,9 +41,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-ninja777](https://github.com/vvv18-dynamics/tutorial_impedance-control-ninja777) | :white_check_mark: | **1** |
-| [assignment_computed-torque-ninja777](https://github.com/vvv18-dynamics/assignment_computed-torque-ninja777) | :x: | **0** |
+| [assignment_computed-torque-ninja777](https://github.com/vvv18-dynamics/assignment_computed-torque-ninja777) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
