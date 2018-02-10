@@ -552,6 +552,11 @@
         "name": "tutorial_impedance-control-science-code",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_impedance-control-simulink-science-code",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -562,7 +567,7 @@
         "score": 5
       }
     ],
-    "score": 1
+    "score": 2
   },
   {
     "username": "yidiem",
