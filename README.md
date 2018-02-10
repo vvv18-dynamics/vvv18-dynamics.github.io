@@ -167,7 +167,11 @@
 
 ### [**umgnunes**](https://github.com/umgnunes) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [tutorial_impedance-control-umgnunes](https://github.com/vvv18-dynamics/tutorial_impedance-control-umgnunes) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
