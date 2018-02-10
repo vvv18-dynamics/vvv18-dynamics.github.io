@@ -146,6 +146,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-Rayne91](https://github.com/vvv18-dynamics/tutorial_impedance-control-Rayne91) | :white_check_mark: | **1** |
+| [assignment_computed-torque-Rayne91](https://github.com/vvv18-dynamics/assignment_computed-torque-Rayne91) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
