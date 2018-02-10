@@ -204,9 +204,10 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-samvinanzi](https://github.com/vvv18-dynamics/tutorial_impedance-control-samvinanzi) | :white_check_mark: | **1** |
+| [tutorial_impedance-control-simulink-samvinanzi](https://github.com/vvv18-dynamics/tutorial_impedance-control-simulink-samvinanzi) | :white_check_mark: | **1** |
 | [assignment_computed-torque-samvinanzi](https://github.com/vvv18-dynamics/assignment_computed-torque-samvinanzi) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
