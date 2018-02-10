@@ -235,9 +235,15 @@
   },
   {
     "username": "njm12",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_impedance-control-njm12",
+        "status": ":white_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [],
-    "score": 0
+    "score": 1
   },
   {
     "username": "UgoVollhardt",
