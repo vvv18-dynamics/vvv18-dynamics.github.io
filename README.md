@@ -162,9 +162,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-Rayne91](https://github.com/vvv18-dynamics/tutorial_impedance-control-Rayne91) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-Rayne91](https://github.com/vvv18-dynamics/tutorial_impedance-control-simulink-Rayne91) | :white_check_mark: | **1** |
-| [assignment_computed-torque-Rayne91](https://github.com/vvv18-dynamics/assignment_computed-torque-Rayne91) | :x: | **0** |
+| [assignment_computed-torque-Rayne91](https://github.com/vvv18-dynamics/assignment_computed-torque-Rayne91) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
