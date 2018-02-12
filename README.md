@@ -200,9 +200,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-umgnunes](https://github.com/vvv18-dynamics/tutorial_impedance-control-umgnunes) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-umgnunes](https://github.com/vvv18-dynamics/tutorial_impedance-control-simulink-umgnunes) | :white_check_mark: | **1** |
-| [assignment_computed-torque-umgnunes](https://github.com/vvv18-dynamics/assignment_computed-torque-umgnunes) | :x: | **0** |
+| [assignment_computed-torque-umgnunes](https://github.com/vvv18-dynamics/assignment_computed-torque-umgnunes) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
