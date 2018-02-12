@@ -277,9 +277,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-UgoVollhardt](https://github.com/vvv18-dynamics/tutorial_impedance-control-UgoVollhardt) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-UgoVollhardt](https://github.com/vvv18-dynamics/tutorial_impedance-control-simulink-UgoVollhardt) | :white_check_mark: | **1** |
-| [assignment_computed-torque-UgoVollhardt](https://github.com/vvv18-dynamics/assignment_computed-torque-UgoVollhardt) | :x: | **0** |
+| [assignment_computed-torque-UgoVollhardt](https://github.com/vvv18-dynamics/assignment_computed-torque-UgoVollhardt) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
