@@ -238,9 +238,10 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-raedbsili1991](https://github.com/vvv18-dynamics/tutorial_impedance-control-raedbsili1991) | :white_check_mark: | **1** |
+| [tutorial_impedance-control-simulink-raedbsili1991](https://github.com/vvv18-dynamics/tutorial_impedance-control-simulink-raedbsili1991) | :white_check_mark: | **1** |
 | [assignment_computed-torque-raedbsili1991](https://github.com/vvv18-dynamics/assignment_computed-torque-raedbsili1991) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
