@@ -630,11 +630,11 @@
     "assignments": [
       {
         "name": "assignment_computed-torque-DonatiElisa",
-        "status": ":x:",
-        "last_commit_date": "2018-02-10 11:51:41 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-13 06:53:54 UTC",
         "score": 5
       }
     ],
-    "score": 1
+    "score": 6
   }
 ]
